@@ -9,3 +9,8 @@
 
 ### Instalasi Python
 Link Download https://www.python.org/downloads/windows/
+
+Instalasi di Linux : 
+```
+sudo apt-get install -y python3.8 
+```
