@@ -46,7 +46,13 @@ sudo systemctl start mongod
 ```
 
 Melihat Status Mongo DB
-```sudo systemctl status mongod```
+```
+sudo systemctl status mongod
+```
 
 Menghentikan Mongo DB
-```sudo systemctl stop mongod```
+```
+sudo systemctl stop mongod
+```
+
+### Instalasi 
